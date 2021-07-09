@@ -9,6 +9,7 @@ public class ma4 extends AppCompatActivity {
     private static final String TEXT_STATE = "현재 택스트";
     private TextView tv = null;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
